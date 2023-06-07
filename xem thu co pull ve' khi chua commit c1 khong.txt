@@ -1,0 +1,1 @@
+xem thu co pull ve' khi chua commit c1 khong.txt
